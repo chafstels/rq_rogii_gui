@@ -24,7 +24,7 @@ from PySide6.QtWidgets import QApplication
 # ///////////////////////////////////////////////////////////////
 from modules import App
 
-os.environ["QT_FONT_DPI"] = "96"  # FIX Problem for High DPI and Scale above 100%
+os.environ["QT_FONT_DPI"] = "80"  # FIX Problem for High DPI and Scale above 100%
 
 # SET AS GLOBAL WIDGETS
 # ///////////////////////////////////////////////////////////////
